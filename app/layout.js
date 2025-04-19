@@ -14,8 +14,8 @@ const figtree = Figtree({
 });
 
 export const metadata = {
-    title: 'Font + Tailwind Demo',
-    description: 'Next.js 13 + Tailwind CSS + Google Fonts',
+    title: 'Fame Tonic',
+    description: 'NetZet Task',
 };
 
 export default function RootLayout({ children }) {

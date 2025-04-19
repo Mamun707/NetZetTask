@@ -30,11 +30,11 @@ const Navbar=()=> {
             </div>
 
             {/* Desktop Section */}
-            <nav className='hidden md:flex space-x-6 lg:space-x-8 text-white'>
+            <nav className='hidden md:flex space-x-6 lg:space-x-8 text-[#A9A9A9]'>
                 <a href='#' className='font-figtree text-sm font-semibold hover:text-gray-300 transition'>
                     About us
                 </a>
-                <a href='#' className='font-figtree text-sm hover:text-gray-300 transition'>
+                <a href='#' className='font-figtree text-sm font-semibold hover:text-gray-300 transition'>
                     Contact
                 </a>
             </nav>
@@ -64,7 +64,7 @@ const Navbar=()=> {
                         </button>
                     </div>
 
-                    <nav className='flex flex-col space-y-6 text-white text-lg'>
+                    <nav className='flex flex-col space-y-6 text-[#A9A9A9] text-lg'>
                         <a 
                             href='#' 
                             className='font-figtree font-semibold hover:text-gray-300 transition'
